@@ -1,0 +1,200 @@
+{
+  "month": "December",
+  "year": 2001,
+  "days": [
+    {
+      "date": 1,
+      "day": "Saturday",
+      "tithi": "Margashirsha Krishna Pratipada",
+      "paksha": "Krishna"
+    },
+    {
+      "date": 2,
+      "day": "Sunday",
+      "tithi": "Margashirsha Krishna Dwitiya",
+      "paksha": "Krishna"
+    },
+    {
+      "date": 3,
+      "day": "Monday",
+      "tithi": "Margashirsha Krishna Tritiya",
+      "paksha": "Krishna"
+    },
+    {
+      "date": 4,
+      "day": "Tuesday",
+      "tithi": "Margashirsha Krishna Chaturthi",
+      "paksha": "Krishna"
+    },
+    {
+      "date": 5,
+      "day": "Wednesday",
+      "tithi": "Margashirsha Krishna Panchami",
+      "paksha": "Krishna"
+    },
+    {
+      "date": 6,
+      "day": "Thursday",
+      "tithi": "Margashirsha Krishna Shashthi",
+      "paksha": "Krishna"
+    },
+    {
+      "date": 7,
+      "day": "Friday",
+      "tithi": "Margashirsha Krishna Saptami",
+      "paksha": "Krishna"
+    },
+    {
+      "date": 8,
+      "day": "Saturday",
+      "tithi": "Margashirsha Krishna Ashtami",
+      "paksha": "Krishna"
+    },
+    {
+      "date": 9,
+      "day": "Sunday",
+      "tithi": "Margashirsha Krishna Navami",
+      "paksha": "Krishna"
+    },
+    {
+      "date": 10,
+      "day": "Monday",
+      "tithi": "Margashirsha Krishna Dashami",
+      "paksha": "Krishna"
+    },
+    {
+      "date": 11,
+      "day": "Tuesday",
+      "tithi": "Margashirsha Krishna Ekadashi",
+      "paksha": "Krishna"
+    },
+    {
+      "date": 12,
+      "day": "Wednesday",
+      "tithi": "Margashirsha Krishna Dwadashi",
+      "paksha": "Krishna"
+    },
+    {
+      "date": 13,
+      "day": "Thursday",
+      "tithi": "Margashirsha Krishna Trayodashi",
+      "paksha": "Krishna"
+    },
+    {
+      "date": 14,
+      "day": "Friday",
+      "tithi": "Margashirsha Krishna Chaturdashi",
+      "paksha": "Krishna"
+    },
+    {
+        
+      "date": 15,
+      "day": "Saturday",
+      "tithi": "Margashirsha Purnima",
+      "paksha": "Shukla"
+
+
+    },
+    {
+      "date": 16,
+      "day": "Sunday",
+      "tithi": "Margashirsha Shukla Pratipada",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 17,
+      "day": "Monday",
+      "tithi": "Margashirsha Shukla Dwitiya",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 18,
+      "day": "Tuesday",
+      "tithi": "Margashirsha Shukla Tritiya",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 19,
+      "day": "Wednesday",
+      "tithi": "Margashirsha Shukla Chaturthi",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 20,
+      "day": "Thursday",
+      "tithi": "Margashirsha Shukla Panchami",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 21,
+      "day": "Friday",
+      "tithi": "Margashirsha Shukla Shashthi",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 22,
+      "day": "Saturday",
+      "tithi": "Margashirsha Shukla Saptami",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 23,
+      "day": "Sunday",
+      "tithi": "Margashirsha Shukla Ashtami",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 24,
+      "day": "Monday",
+      "tithi": "Margashirsha Shukla Navami",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 25,
+      "day": "Tuesday",
+      "tithi": "Margashirsha Shukla Dashami",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 26,
+      "day": "Wednesday",
+      "tithi": "Margashirsha Shukla Ekadashi",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 27,
+      "day": "Thursday",
+      "tithi": "Margashirsha Shukla Dwadashi",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 28,
+      "day": "Friday",
+      "tithi": "Margashirsha Shukla Trayodashi",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 29,
+      "day": "Saturday",
+      "tithi": "Margashirsha Shukla Chaturdashi",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 30,
+      "day": "Sunday",
+      "tithi": "Margashirsha Shukla Purnima",
+      "paksha": "Shukla"
+    },
+    {
+      "date": 31,
+      "day": "Monday",
+      "tithi": "Margashirsha Shukla Pratipada",
+      "paksha": "Shukla"
+    }
+  ],
+  "notes": {
+    "Krishna_Paksha": "Waning Moon Phase",
+    "Shukla_Paksha": "Waxing Moon Phase",
+    "Margashirsha": "Hindu lunar month"
+  }
+}
